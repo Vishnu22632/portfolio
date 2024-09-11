@@ -13,7 +13,7 @@
         <!-- Card for EMS -->
         <div class="project-card">
             <h3>EMS (Employee Management System)</h3>
-            <p>A system designed to manage employee data, track performance, and streamline HR processes.</p>
+            <p>A system designed to manage employee data, track performance</p>
             <a href="#" class="view-project">View Project</a>
         </div>
 

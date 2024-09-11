@@ -12,15 +12,15 @@
         </li>
         <li>
           <i class="pi pi-github"></i> 
-          <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/" target="_blank" >GitHub</a>
         </li>
         <li>
           <i class="pi pi-linkedin"></i> 
-          <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://np.linkedin.com/" target="_blank" >LinkedIn</a>
         </li>
         <li>
           <i class="pi pi-facebook"></i> 
-          <a href="https://facebook.com/your-profile" target="_blank" rel="noopener noreferrer">Facebook</a>
+          <a href="https://www.facebook.com/" target="_blank" >Facebook</a>
         </li>
       </ul>
     </div>

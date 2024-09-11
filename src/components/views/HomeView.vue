@@ -9,8 +9,8 @@
         </p>
   
         <div class="btns">
-          <button class="btn-primary">Read Me</button>
-         <a href="/contact"> <button class="btn-secondary">Contact Me</button></a>
+          <button class="btn-primary">Learn More</button>
+          <button class="btn-secondary">Contact Me</button>
         </div>
   
       </div>

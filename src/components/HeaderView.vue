@@ -5,8 +5,8 @@
         <li>
           <router-link to="/">
             <i class="pi pi-home"></i> Home
-          </router-link>
-        </li>
+                          </router-link>
+                         </li>
 
         <li>
           <router-link to="/about">
