@@ -3,6 +3,12 @@
     <nav class="navbar">
       <ul class="nav-list">
         <li>
+          <router-link to="/">
+            <i class="pi pi-home"></i> Home
+          </router-link>
+        </li>
+
+        <li>
           <router-link to="/about">
             <i class="pi pi-user"></i> About
           </router-link>

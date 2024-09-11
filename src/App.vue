@@ -1,7 +1,7 @@
 <template>
 <div id="app">
     <HeaderView />
-    <HomeView />
+    <router-view></router-view>
     <FooterView />
 </div>
 </template>
@@ -9,14 +9,14 @@
 <script>
 import HeaderView from './components/HeaderView.vue';
 import FooterView from './components/FooterView.vue';
-import HomeView from './components/views/HomeView.vue';
+
 
 export default {
     name: 'App',
     components: {
         HeaderView,
         FooterView,
-        HomeView,
+        
 
     }
 }

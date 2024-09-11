@@ -10,7 +10,7 @@
   
         <div class="btns">
           <button class="btn-primary">Read Me</button>
-          <button class="btn-secondary">Contact Me</button>
+         <a href="/contact"> <button class="btn-secondary">Contact Me</button></a>
         </div>
   
       </div>
